@@ -1,2 +1,4 @@
 firstLine
 second line for commit
+****
+Two lines added from external source
