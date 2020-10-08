@@ -2,3 +2,8 @@ firstLine
 second line for commit
 ****
 Two lines added from external source
+1
+2
+3
+4
+5
